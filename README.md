@@ -27,7 +27,6 @@ Some more buttons -
 3. Present - after the attendance of entire class is taken, using this button the list of present 
    students can be sent over Whatsapp where the user needs to select a recipient.
    The message contains Date, Class name along with respective Present students.
-   page.
 4. Absent - after the attendance of entire class is taken, using this button the list of absent 
    students can be sent over Whatsapp where the user needs to select a recipient.
    The message contains Date, Class name along with respective Absent students.
