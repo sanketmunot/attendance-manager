@@ -1,0 +1,43 @@
+#submit {
+	background-color: white;
+	text-align: center;
+	border:4px solid white;
+}
+
+#absentall, #presentall{
+	background-color:white;
+	text-align: center;
+	color: black;
+	padding: 1% 1% 1% 1%;
+	border-radius: 15%;
+	border:4px solid ;
+}
+
+#heading{
+	font-size: 60px;
+	text-align: center;
+	vertical-align: center;
+	background-color: white;
+}
+
+.ff{
+	width: 70px;
+	height: 50px;
+	margin-right: 5px;
+	margin-left: 5px;
+	margin-top: 5px;
+	text-align: center;
+	border-radius: 30px;
+	user-select: none;
+}
+
+#reset{
+	text-align: center;
+	background-color: yellow;
+	color: black;
+	user-select: none;
+}
+
+.details{
+	text-align: center;
+}
