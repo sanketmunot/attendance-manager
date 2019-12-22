@@ -1,3 +1,5 @@
+// script to generate CSV file
+// rename the script as 'script.js'
 var cl_as
 var si_ze
 
