@@ -41,3 +41,23 @@
 .details{
 	text-align: center;
 }
+
+#ano{
+	display: none;
+}
+
+#P{
+	color: green;
+}
+
+#A{
+	color: red;
+}
+
+#footer {
+	position:absolute;
+	bottom:0;
+	width:100%;
+	height:60px;   /* Height of the footer */
+	background:white;
+ }
